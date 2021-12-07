@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace CSharpBasic
+namespace Ex1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World2222!");
+            Console.WriteLine("Hello World!1111");
         }
     }
 }
